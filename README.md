@@ -1,3 +1,3 @@
 # new-rep yup
-Hello world
-a new commit creating
+- Hello world merge conflict
+- making a new conflict
