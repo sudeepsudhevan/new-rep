@@ -1,2 +1,3 @@
 # new-rep 
-Hello
+Hello world
+a new commit creating
